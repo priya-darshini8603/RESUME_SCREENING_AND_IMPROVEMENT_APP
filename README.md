@@ -49,5 +49,5 @@ This project implements a **Machine Learning pipeline** for **automated resume s
    - Classification Report
    - Accuracy Score
 5. Save the best model using `pickle`
-
+6. Deploy and Run using Streamlit
 
